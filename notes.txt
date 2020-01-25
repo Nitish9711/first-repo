@@ -1,0 +1,7 @@
+git hub commands
+// to add something new
+git add .
+git commit -am 'added ....'
+git push
+
+
